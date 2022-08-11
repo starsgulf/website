@@ -48,8 +48,29 @@ body{
 .logooUp{
     position: absolute;
     top: 30px;
-    left: 23%;
+    left: 42%;
     
+}
+@media(max-width:767px){
+    .logooUp{
+       
+        left:35%;
+        
+    }  
+}
+@media(max-width:400px){
+    .logooUp{
+       
+        left:27%;
+        
+    }  
+}
+@media(max-width:350px){
+    .logooUp{
+       
+        left:23%;
+        
+    }  
 }
 .logoo{   
     position: relative;
