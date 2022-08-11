@@ -13,7 +13,7 @@ body{
     justify-self: center;
     align-items: center;
     min-height: 100vh;
-    background: #edf1f4;
+    background: #fff;
 }
 .container{
     max-width: 350px;
