@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;1,700&family=Rakkas&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial,Helvetica,'Amiri', sans-serif;
+}
+body{
+   
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #edf1f4;
+}
+.container{
+    max-width: 350px;
+}
+.container a{
+    font-size: 40px;
+}
+.container i{
+    color: #282829;
+}
+.container .bxl-whatsapp{
+    font-size:30px;
+ }
+ .bxl-youtube,
+ .bxl-facebook-circle{
+    margin-right: 30px;
+ }
+ .rowIn a{
+    text-align: left;
+    direction: ltr;
+ }
+ 
+ .row {  
+    background-color: #6c757d;
+    margin: 10px;
+    border-radius: 10px;    
+}
+.row a{
+    color: #fff;
+    text-shadow: 1px 1px 2px #b7b7b7, 0 0 1em rgb(177 201 235), 0 0 0.2em rgb(135 135 245);
+}
+.logooUp{
+    position: absolute;
+    top: 30px;
+    left: 23%;
+    
+}
+.logoo{   
+    position: relative;
+	height: 200px;
+    width: 200px;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.logoo img{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform: translate(0%, 0%);
+}
+.cont0{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    padding-top: 37vh;
+}
