@@ -54,31 +54,25 @@ body{
 @media(max-width:767px){
     .logooUp{
        
-        left:35%;
+        left:19%;
         
     }  
 }
 @media(max-width:400px){
     .logooUp{
        
-        left:27%;
+        left:7%;
         
     }  
 }
-@media(max-width:350px){
-    .logooUp{
-       
-        left:23%;
-        
-    }  
-}
+
 .logoo{   
     position: relative;
-	height: 200px;
-    width: 200px;
-	display: flex;
-	align-items: flex-end;
-	justify-content: center;
+    height: 287px;
+    width: 346px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
     overflow: hidden;
     border-radius: 50%;
 }
