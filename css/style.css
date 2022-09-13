@@ -48,7 +48,7 @@ body{
 .logooUp{
     position: absolute;
     top: 30px;
-    left: 42%;
+    left:37%;
     
 }
 @media(max-width:767px){
@@ -69,7 +69,7 @@ body{
 .logoo{   
     position: relative;
     height: 287px;
-    width: 346px;
+    width: 300px;
     display: flex;
     align-items: flex-end;
     justify-content: center;
